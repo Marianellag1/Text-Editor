@@ -1,4 +1,4 @@
-Live Link: 
+Live Link: https://desolate-sands-67603.herokuapp.com/
 # **Text Editor**
 
 [![Licence](http://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,6 +15,7 @@ Live Link:
 
 
 ---
+![Screenshot 2022-10-29 201038](https://user-images.githubusercontent.com/110939445/198858348-4902cd2f-f470-421b-863c-a7440e558981.png)
 
 ## **Description of the Project**
 App that will function offline meeting the PWA criteria.
